@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Steadholme — Infrastructure for people. Tools for agents.">
+<rect width="1280" height="360" rx="16" fill="#101821"/>
+<path d="M840 0v360M960 0v360M1080 0v360M1200 0v360M800 60h480M800 180h480M800 300h480" stroke="#25323d" stroke-width="1"/>
+<path d="M1010 73l132 76v152l-132-76z" fill="#182b30" stroke="#416a68"/>
+<path d="M878 149l132-76v152l-132 76z" fill="#213b3c" stroke="#5e8a82"/>
+<path d="M878 149l132 76 132-76-132-76z" fill="#315c57" stroke="#8cbaaa"/>
+<path d="M945 188v-76l65-38 65 38v76" fill="none" stroke="#e4b387" stroke-width="3"/>
+<circle cx="1010" cy="225" r="7" fill="#e4b387"/>
+<path d="M60 58h42" stroke="#e4b387" stroke-width="4"/>
+<text x="116" y="64" fill="#b9c8c9" font-family="Arial, sans-serif" font-size="14" letter-spacing="4">THE STEADHOLME COLLECTIVE</text>
+<text x="57" y="162" fill="#f1f0e9" font-family="Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">STEADHOLME</text>
+<text x="62" y="218" fill="#bac8cf" font-family="Arial, sans-serif" font-size="24">Infrastructure for people. Tools for agents.</text>
+<rect x="62" y="270" width="180" height="32" rx="4" fill="#263d3c"/>
+<text x="78" y="291" fill="#b2dac9" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">01 / INFRA &amp; OA</text>
+<rect x="258" y="270" width="186" height="32" rx="4" fill="#3c3029"/>
+<text x="274" y="291" fill="#e4b387" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">02 / MCP TOOLS</text>
+<text x="1206" y="329" text-anchor="end" fill="#738b96" font-family="monospace" font-size="11" letter-spacing="2">BUILD · CONNECT · EXPLORE</text>
+</svg>
